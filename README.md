@@ -14,4 +14,4 @@ For the setup conda environment please see this link
 
 These pipelines need enveomics collection. Download or clone enveomics collection on your SUMMIT directory
 (https://github.com/lmrodriguezr/enveomics-gui)  
->>>>>>> 812ccea (first commit)
+
