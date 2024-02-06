@@ -3,7 +3,7 @@
 
 if [[ "$1" == "" || "$1" == "-h" ]] ; then
    echo "
-   Usage: ./RUNME.bash folder queue
+   Usage: ./RUNME.bash folder queue QOS
 
    folder	Path to the folder containing the raw reads. The raw reads must be in FastQ format,
    		and filenames must follow the format: <name>.<sis>.fastq, where <name> is the name
