@@ -5,6 +5,7 @@
 
 b=$SAMPLE
 enve=/projects/kim45@colostate.edu/Software/enveomics/Scripts
+# The number of CPUs or threads
 THR=2
 
 #---------------------------------------------------------

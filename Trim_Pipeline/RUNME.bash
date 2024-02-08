@@ -49,3 +49,4 @@ for i in $dir/*.1.fastq ; do
 done ;
 
 echo 'Done'
+# Hi Greg!
